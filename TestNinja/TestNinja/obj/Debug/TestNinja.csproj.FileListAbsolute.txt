@@ -25,3 +25,5 @@ C:\Users\johan\source\repos\GDanielJ\TestNinja\TestNinja\TestNinja\obj\Debug\Tes
 C:\Users\johan\source\repos\GDanielJ\TestNinja\TestNinja\TestNinja\obj\Debug\TestNinja.csproj.CopyComplete
 C:\Users\johan\source\repos\GDanielJ\TestNinja\TestNinja\TestNinja\obj\Debug\TestNinja.dll
 C:\Users\johan\source\repos\GDanielJ\TestNinja\TestNinja\TestNinja\obj\Debug\TestNinja.pdb
+C:\Users\johan\source\repos\GDanielJ\TestNinja\TestNinja\TestNinja\bin\Debug\Castle.Core.dll
+C:\Users\johan\source\repos\GDanielJ\TestNinja\TestNinja\TestNinja\bin\Debug\Castle.Core.xml
